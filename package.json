@@ -1,0 +1,15 @@
+{
+  "name": "fiaz-store",
+  "version": "1.0.0",
+  "description": "FIAZ Stores",
+  "main": "server1.js",
+  "scripts": {
+    "start": "node backend/server1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Biola Smith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
